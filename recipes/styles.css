@@ -1,0 +1,29 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    background-color: rgba(192, 192, 192, 0.438);
+    max-width: 750px;
+    line-height: 1.5em;
+    padding: 50px;
+    margin: 50px auto;
+}
+
+h1 {
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 50px;
+    line-height: 0.9em;
+}
+
+img {
+    float: left;
+    width: 300px;
+    height: auto;
+    padding-right: 20px;
+}
+
+#unfloated {
+    display: inline-block;
+}
